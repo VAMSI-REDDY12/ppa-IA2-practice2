@@ -34,4 +34,5 @@ int main()
   tri(a,b,c,&result);
   output(result);
   return 0;
+  
 }
